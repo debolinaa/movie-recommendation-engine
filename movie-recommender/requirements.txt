@@ -1,0 +1,28 @@
+# Core ML dependencies
+torch>=2.7.0
+torchvision>=0.20.0
+torchaudio>=2.7.0
+
+# Embeddings + NLP
+sentence-transformers>=3.1.1
+transformers>=4.44.2
+
+# Data handling
+pandas>=2.2.3
+numpy>=2.1.2
+scikit-learn>=1.5.2
+
+# Recommender system utilities
+scipy>=1.14.1
+faiss-cpu>=1.8.0.post1
+
+# Dev + Utils
+tqdm>=4.66.5
+matplotlib>=3.9.2
+seaborn>=0.13.2
+
+# Web UI
+gradio>=3.43
+
+# Env variables
+python-dotenv>=1.0.0
