@@ -66,29 +66,46 @@ movie-recommender
 A content-based movie recommender system with a modern Gradio-powered user interface.  
 
 ---
+## ✨ Features  
 
-features 
+### 🔹 Search Bar  
+![Search Bar](https://github.com/user-attachments/assets/da5b961b-ccf3-424e-b065-a9cb40cbb08f)  
+Quickly find any movie by typing its name.  
 
-![WhatsApp Image 2025-09-08 at 15 06 49_8b623e6f](https://github.com/user-attachments/assets/da5b961b-ccf3-424e-b065-a9cb40cbb08f)
-1. searchbar
-2. recommend button
-3. choose your mood feature, for personalized recommendations
-![WhatsApp Image 2025-09-08 at 15 07 33_b9d2c780](https://github.com/user-attachments/assets/4d1c51e0-93c0-4a21-b875-c6a6e2c91f1c)
-![WhatsApp Image 2025-09-08 at 15 07 58_4309a5be](https://github.com/user-attachments/assets/b9f00723-c95a-4c35-8b31-4fc479b98078)
+---
 
-4. surprise me to get randomized reccomendation for hidden gems
-![WhatsApp Image 2025-09-08 at 15 09 02_3316576a](https://github.com/user-attachments/assets/db11137a-cb1a-4d62-9c31-fd02481ae9ba)
+### 🔹 Recommend Button  
+![Recommend Button](https://github.com/user-attachments/assets/4d1c51e0-93c0-4a21-b875-c6a6e2c91f1c)  
+Get instant recommendations based on your search.  
 
-5. minimum rating feature , filtering based on rating selected
-![WhatsApp Image 2025-09-08 at 15 09 32_69276aae](https://github.com/user-attachments/assets/b2902a6c-c37c-46b1-aaab-3025f5f578fc)
+---
 
-sample searches
+### 🔹 Choose Your Mood 🎭  
+![Choose Mood 1](https://github.com/user-attachments/assets/b9f00723-c95a-4c35-8b31-4fc479b98078)  
+Personalized suggestions based on your mood.  
 
-![WhatsApp Image 2025-09-08 at 15 11 12_1277f9e6](https://github.com/user-attachments/assets/3760a5ed-1393-4836-98e1-548ae6c17f6e)
-![WhatsApp Image 2025-09-08 at 15 14 10_345390e5](https://github.com/user-attachments/assets/a5ef13e3-d48e-4266-90d8-7c13a1311788)
-![WhatsApp Image 2025-09-08 at 15 14 39_53c11511](https://github.com/user-attachments/assets/fd842aa6-d98a-4c71-8cb2-e1453b03303b)
-![WhatsApp Image 2025-09-08 at 15 16 07_229e0c1c](https://github.com/user-attachments/assets/82d2ddce-bd32-454e-b676-5e7a73e0108d)
+---
 
+### 🔹 Surprise Me 🎲  
+![Surprise Me](https://github.com/user-attachments/assets/db11137a-cb1a-4d62-9c31-fd02481ae9ba)  
+Discover hidden gems with a randomized recommendation.  
+
+---
+
+### 🔹 Minimum Rating Filter ⭐  
+![Minimum Rating](https://github.com/user-attachments/assets/b2902a6c-c37c-46b1-aaab-3025f5f578fc)  
+Filter movies by minimum rating to see only high-quality picks.  
+
+---
+
+## 🎬 Sample Searches  
+
+Here are a few examples of the system in action:  
+
+![Sample Search 1](https://github.com/user-attachments/assets/3760a5ed-1393-4836-98e1-548ae6c17f6e)  
+![Sample Search 2](https://github.com/user-attachments/assets/a5ef13e3-d48e-4266-90d8-7c13a1311788)  
+![Sample Search 3](https://github.com/user-attachments/assets/fd842aa6-d98a-4c71-8cb2-e1453b03303b)  
+![Sample Search 4](https://github.com/user-attachments/assets/82d2ddce-bd32-454e-b676-5e7a73e0108d)  
 
 
 ## 1. 📊 Data Exploration Findings  
